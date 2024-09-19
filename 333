@@ -1,3 +1,3 @@
-#EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="CHANNEL | SPORT", ZIGGO SPORT DOCU
-#EXTVLCOPT:http-user-agent=Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
-http://line.iptveros.com:80/HiFll2XSogYRvaj/KOBb78oDBd/104499
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="CHANNEL | SPORT",AL KASS 1 
+http://line.iptveros.com:80/HiFll2XSogYRvaj/KOBb78oDBd/104499.m3u8
