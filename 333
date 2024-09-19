@@ -1,3 +1,18 @@
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/YpQ86Qk/kass1.png" group-title="CHANNEL | SPORT",AL KASS 1 
 http://line.iptveros.com:80/HiFll2XSogYRvaj/KOBb78oDBd/104499.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="SPORTS",Bein Sports ID1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6299&type=drm
+https://sritv.serv00.net/red/play.mpd?id=6299&type=dash
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/EICoWEA.png" group-title="SPORTS",Bein Sports ID3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6317&type=drm
+https://sritv.serv00.net/red/play.mpd?id=6317&type=dash
